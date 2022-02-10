@@ -1,0 +1,2 @@
+rootProject.name='GoDeliver'
+include ':app'
